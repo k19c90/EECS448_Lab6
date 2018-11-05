@@ -1,0 +1,11 @@
+Kyle Curry
+Lab 6 errors
+
+isEmpty returns true when it shouldn't.
+
+pushBack doesn't actually add to the back, it adds to the front
+
+removeBack doesn't remove anything
+
+removeFront doesn't remove anything 
+
